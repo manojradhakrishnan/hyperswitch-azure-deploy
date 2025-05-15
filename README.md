@@ -6,7 +6,7 @@ This repository contains the necessary files to deploy Hyperswitch on Azure usin
 
 Click the button below to deploy Hyperswitch to Azure:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYOUR_USERNAME%2Fhyperswitch-azure-deploy%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmanojradhakrishnan%2Fhyperswitch-azure-deploy%2Fmain%2Fazuredeploy.json)
 
 ## Instructions
 
